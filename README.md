@@ -17,7 +17,7 @@ The dashboard helps users understand weather conditions, air quality, precipitat
 > Add screenshots of your dashboard here.
 
 Example:
-Image/Weather Forcaste Dashbord Image.png.jpg
+[Image/Weather Forcaste Dashbord Image.png.jpg](https://github.com/venkatvardhan25071/Weather-Forecast-Data-Analysis-PowerBI/blob/main/Image/Weather%20Forcaste%20Dashbord%20Image.png.jpg)
 
 
 
