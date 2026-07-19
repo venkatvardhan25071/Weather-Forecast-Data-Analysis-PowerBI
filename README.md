@@ -17,6 +17,7 @@ The dashboard helps users understand weather conditions, air quality, precipitat
 > Add screenshots of your dashboard here.
 
 Example:
+Image/Weather Forcaste Dashbord Image.png.jpg
 
 
 
